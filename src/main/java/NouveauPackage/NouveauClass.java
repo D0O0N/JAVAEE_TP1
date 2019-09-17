@@ -16,3 +16,5 @@ package NouveauPackage;
 public class NouveauClass {
     
 }
+
+// Non TOM ne fais pas ça !!! Je t'en prie !
