@@ -12,6 +12,7 @@ package NouveauPackage;
 // Cette classe est la meilleure parceque c'est la classe d'info MDR
 //j'ai fais des modifs
 //config
+//ModifTom
 public class NouveauClass {
     
 }
