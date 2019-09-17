@@ -10,6 +10,7 @@ package NouveauPackage;
  * @author pedago
  */
 // Cette classe est la meilleure parceque c'est la classe d'info MDR
+//j'ai fais des modifs
 public class NouveauClass {
     
 }
